@@ -8,3 +8,5 @@
 
 ### you can get more details about Object Recognition in my articles in medium:
 
+
+https://medium.com/@mr.alamdari/imagehow-to-do-object-recognition-with-tensorflow-keras-the-easiest-way-23c7ab9604c7/
