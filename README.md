@@ -11,5 +11,5 @@
 1.TensorFlow API; 
 https://medium.com/@mralamdari/imagehow-to-do-object-recognition-with-tensorflow-keras-the-easiest-way-23c7ab9604c7/
 
-2.PyTorch; 
+2.PyTorch API; 
 https://medium.com/@mralamdari/uagehow-to-do-object-recognition-with-pytorch-the-easiest-way-d0a2750f5fe7
