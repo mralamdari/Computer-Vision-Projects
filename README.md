@@ -6,6 +6,7 @@
 
 ### Some challenges are so long that they can't be represented in GitHub, so I have to separate them into several parts.
 
+
 ### you can get more details about Object Recognition in my articles in medium:
 
 1.TensorFlow API; 
