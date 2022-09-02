@@ -8,7 +8,7 @@
 
 
 ### you can get more details about Object Recognition in my articles in medium:
-There are 2 articles, one with
+There are 2 articles, one implemented by Tensorflow 
 
 1.TensorFlow API; 
 https://medium.com/@mralamdari/imagehow-to-do-object-recognition-with-tensorflow-keras-the-easiest-way-23c7ab9604c7/
