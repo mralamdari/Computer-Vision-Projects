@@ -19,3 +19,6 @@ There are 2 articles, one implemented by Tensorflow, and the other one is implem
 
 
 [Detect Batman by YOLO](https://medium.com/@mralamdari/detect-batman-by-yolo-331b8b1abe34)
+
+and 
+[Detect Superman by YOLO](https://medium.com/@mralamdari/detect-superman-by-yolo-5d81a065a95e)
