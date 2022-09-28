@@ -15,7 +15,7 @@ There are 2 articles, one implemented by Tensorflow, and the other one is implem
 
 2.PyTorch API; [How to do Object Recognition with PyTorch the Easiest way](https://medium.com/@mralamdari/uagehow-to-do-object-recognition-with-pytorch-the-easiest-way-d0a2750f5fe7)
 
-### If you want to learn more about my recent Object Detection Projects, visit my Medium, like;
+### If you want to learn more about my recent Object Detection Projects, visit my Medium;
 
 
 #### 1.[Detect Batman by YOLO](https://medium.com/@mralamdari/detect-batman-by-yolo-331b8b1abe34)
