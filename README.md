@@ -1,8 +1,6 @@
 # Computer Vision Object Detection Projects
 
 ### This Is a repository built to walk through various Object Detection Tasks and Learn from them.
-### The objective of this 
-
 
 ### Some challenges are so long that they can't be represented in GitHub, so I have to separate them into several parts.
 
