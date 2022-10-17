@@ -15,8 +15,6 @@ There are 2 articles, one implemented by Tensorflow, and the other one is implem
 
 ### If you want to learn more about my recent Object Detection Projects, visit my Medium;
 
-###### Each explains
-
 #### 1.[Detect Batman by YOLO](https://medium.com/@mralamdari/detect-batman-by-yolo-331b8b1abe34)
 
 #### 2.[Detect Superman by YOLO](https://medium.com/@mralamdari/detect-superman-by-yolo-5d81a065a95e)
