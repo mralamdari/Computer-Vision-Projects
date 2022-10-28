@@ -2,7 +2,7 @@
 
 ### This Is a repository built to walk through various Object Detection Tasks and Learn from them.
 
-###### Some challenges are so long that they can't be represented in GitHub, so I have to separate them into several parts.
+###### Some challenges are long that they can't be represented in GitHub, so I have to separate them into several parts.
 
 
 ### you can get more details about Object Recognition in my articles in medium:
