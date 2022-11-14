@@ -1,4 +1,4 @@
-# Computer Vision Object Detection Projects
+# Computer Vision Object Projects
 
 ### This Is a repository built to walk through various Object Detection Tasks and Learn from them.
 
