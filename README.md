@@ -6,6 +6,7 @@
 
 
 ### you can get more details about Object Recognition in my articles in medium:
+
 There are 2 articles, one implemented by Tensorflow, and the other one is implemented by PoTorch.
 
 
