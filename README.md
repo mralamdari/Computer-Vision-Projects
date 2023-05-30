@@ -57,4 +57,4 @@ The code in this repository is licensed under the MIT License. Please see the LI
 
 ## Contact
 
-If you have any questions or concerns about this repository, please feel free to contact the repository owner, Mohammad Alamdari, by opening an issue or sending an email to mohammad.alamdari@gmail.com.
+If you have any questions or concerns about this repository, please feel free to contact the repository owner, Mohammad Alamdari, by opening an issue or sending an email to mralamdari2000@gmail.com.
